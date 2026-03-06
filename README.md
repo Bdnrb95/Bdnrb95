@@ -2,7 +2,7 @@
 
 <!--banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHBg7YrApAcvg/profile-displaybackgroundimage-shrink_350_1400/B56ZwyH6WeGUAY-/0/1770367461970?e=1772668800&v=beta&t=84JoPWbpbjILhBXxbb394FxNKcgn1Z3rzxYebm7yS9o">
+  <img src=""C:\Users\benbo\OneDrive\Desktop\Recruitment\Profile Pic options\1770367461970.jfif"">
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/260490466?v=4" alt="Bence Profile Picture" width="150" />
