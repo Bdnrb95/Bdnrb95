@@ -107,5 +107,4 @@ I enjoy working with real-world datasets, identifying trends, and transforming d
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
 
-LinkedIn: www.linkedin.com/in/bence-bodnar-7901b1357
-Email: ben.bodnar95@gmail.com
+
