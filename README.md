@@ -2,7 +2,7 @@
 
 <!--banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHBg7YrApAcvg/profile-displaybackgroundimage-shrink_350_1400/B56ZwyH6WeGUAY-/0/1770367461970?e=1776297600&v=beta&t=NE2l39wHBc5LXpmwtRV9jSpJOZPY5mjOF9IrUXf5Cx4">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQHBg7YrApAcvg/profile-displaybackgroundimage-shrink_350_1400/B56ZwyH6WeGUAY-/0/1770367461970?e=1778112000&v=beta&t=MnCvB8hU0OEQjFXwcD9T-h8V6p8CJq3HGllvRlA2J-g">
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/260490466?v=4" alt="Bence Profile Picture" width="150" />
